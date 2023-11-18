@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olawunmi2006
 - 👀 I’m interested in full stack development and mobile app development
-- 🌱 I’m currently learning front end development
+- 🌱 I’m a front end developer
 - 💞️ I’m looking to collaborate on mobile app development
 - 📫 How to reach me 07086243290 via WhatsApp
 
